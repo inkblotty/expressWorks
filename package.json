@@ -1,0 +1,26 @@
+{
+  "name": "expressworks",
+  "version": "1.0.0",
+  "description": "Express Works tutorial by NodeSchool.io",
+  "main": "00_helloWorld.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {
+    "express": "^4.13.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inkblotty/expressWorks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inkblotty/expressWorks/issues"
+  },
+  "homepage": "https://github.com/inkblotty/expressWorks#readme"
+}
