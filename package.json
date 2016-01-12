@@ -8,8 +8,10 @@
     "jade": "^1.11.0"
   },
   "devDependencies": {
+    "body-parser": "^1.14.2",
     "express": "^4.13.3",
-    "jade": "^1.11.0"
+    "jade": "^1.11.0",
+    "stylus": "^0.53.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
